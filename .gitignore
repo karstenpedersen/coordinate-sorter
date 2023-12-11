@@ -1,0 +1,15 @@
+# Assembly
+*.o
+a.out
+.gdb_history
+
+# Latex
+*.aux
+*.bbl
+*.log
+*.out
+*.blg
+*.synctex.gz
+
+# Output
+output.txt
